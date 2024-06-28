@@ -9,6 +9,11 @@ This project implements a multi-robot target tracking system using Kalman Filter
 - Dynamic and static target tracking scenarios
 - Simulation environment for testing and validation
 
+
+## Results
+![](https://github.com/jayakvenu47/distributed_perception/blob/main/result.gif)
+  
+
 ## Installation
 1. Clone the repository.
 ```
