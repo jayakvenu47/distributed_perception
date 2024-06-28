@@ -8,3 +8,15 @@ This project implements a multi-robot target tracking system using Kalman Filter
 - Data fusion from multiple sensors (IMU, GPS)
 - Dynamic and static target tracking scenarios
 - Simulation environment for testing and validation
+
+## Installation
+1. CLone the repo.
+```
+    git clone https://github.com/jayakvenu/distributed_perception.git'
+```
+2. Navigate to the project directory:
+
+
+```
+    git clone https://github.com/jayakvenu/distributed_perception.git'
+```
