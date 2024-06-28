@@ -10,13 +10,18 @@ This project implements a multi-robot target tracking system using Kalman Filter
 - Simulation environment for testing and validation
 
 ## Installation
-1. CLone the repo.
+1. Clone the repository.
 ```
     git clone https://github.com/jayakvenu/distributed_perception.git'
 ```
 2. Navigate to the project directory:
 
-
 ```
     git clone https://github.com/jayakvenu/distributed_perception.git'
 ```
+
+## Usage
+# To run the simulation, simply execute the corresponding MATLAB files:
+
+1. For dynamic tracking, run dynamic_tracking.m.
+2. For static tracking, run static_tracking_l.m.
