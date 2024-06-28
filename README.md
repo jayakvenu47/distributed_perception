@@ -26,7 +26,7 @@ This project implements a multi-robot target tracking system using Kalman Filter
 ```
 
 ## Usage
-### To run the simulation, simply execute the corresponding MATLAB files:
+To run the simulation, simply execute the corresponding MATLAB files:
 
 1. For dynamic tracking, run dynamic_tracking.m.
 2. For static tracking, run static_tracking_l.m.
